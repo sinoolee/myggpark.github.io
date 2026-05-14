@@ -11,10 +11,12 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 
 但不少用户在访问 Gemini 或使用过程中，都会突然看到一个非常令人头疼的提示：
 
-![something went wrong提示](https://github.com/myggpark/myggpark.github.io/blob/main/assets/images/20260514002/20260427-LOGO.jpg)
-
+> “Something went wrong. Please try again later.”
 
 （Google Gemini 出问题了，请稍后再试）
+
+![something went wrong提示](https://myggpark.github.io/assets/images/20260514001/1-Gemini%20Something%20Get%20Wrong合并.jpg)
+
 
 问题在于：
 
@@ -41,7 +43,6 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 
 ---
 
-![Gemini Something went wrong 报错示意图](/assets/images/google-gemini-something-went-wrong-fix/gemini-something-went-wrong.png)
 
 ---
 
@@ -50,6 +51,9 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 当 Gemini 报错时，Google 官方帮助中心其实给过一个“看似解释、但几乎没用”的说明：
 
 > Gemini 仅对符合条件的个人账号、受支持地区、合规年龄、合规浏览器开放。
+
+![Gemini Something Get Wrong官方原因解析](https://myggpark.github.io/assets/images/20260514001/5-Something went wrong的官方原因解析.jpg)
+
 
 问题是——
 
@@ -93,6 +97,8 @@ Google 账号设置
 
 - 生日是否完整
 - 是否触发验证提示
+- 
+![something went wrong提示](https://myggpark.github.io/assets/images/20260514001/12-核查生日信息(1).jpg)
 
 如果你看到：
 
@@ -105,7 +111,7 @@ Google 账号设置
 1. 使用手机扫描二维码
 2. 选择自拍人脸验证
 3. 按提示完成验证
-
+![something went wrong提示](https://myggpark.github.io/assets/images/20260514001/9-年龄验证.jpeg)
 ⚠️ 很多老账号是：
 
 > 有生日，但未验证。
