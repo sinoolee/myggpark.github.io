@@ -5,8 +5,6 @@ date: 2026-04-24 08:00:00 +0800
 categories: [gemini, google, ai]
 description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemini 报错的真实原因，以及亲测有效的修复方法。"
 ---
-
-
 ## 前言：Gemini 无法使用？你不是个例
 
 自 2025 年起，Google 推出的 Gemini AI 快速走红，成为许多人替代 ChatGPT 的新选择。
