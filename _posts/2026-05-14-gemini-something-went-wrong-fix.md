@@ -154,6 +154,8 @@ Google 账号设置
 
 ```text
 设置
+![关闭付款计划](https://myggpark.github.io/assets/images/20260514001/7-关闭付款计划.jpg)
+
 ```
 
 ### Step 3
