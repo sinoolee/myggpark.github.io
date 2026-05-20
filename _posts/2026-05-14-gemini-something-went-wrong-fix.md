@@ -248,8 +248,6 @@ Gemini **并非全球 100% 开放**。
 - **数智通｜服务导航站**：[kuajingchoice.com](https://www.kuajingchoice.com)**导航**
 
 
-📺 **YouTube主页**  
-[https://www.youtube.com/@myggpark](https://www.youtube.com/@myggpark)
+📺 **YouTube主页**:[https://www.youtube.com/@myggpark](https://www.youtube.com/@myggpark)
 
-📺 **B站视频主页**  
-[https://space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
+📺 **B站视频主页**:[https://space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
